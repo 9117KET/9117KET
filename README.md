@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @9117KET
 - 👀 I’m a computer science student at Jacobs University (Now known as Constructor University)
 - 🌱 Currently learning and applying C/Cpp, Python, ADS
-- 💞️ I’m working on my startup, the "KET Foundation."
-- 📫 How to reach me kinlotangiri911@gmail.com
+- 💞️ I’m working on a personal project "KET Foundation."
+- 📫 Here is my portfolio website: https://9117ket.github.io/KET-Diary/
 - 
 
 <!---
