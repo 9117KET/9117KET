@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @9117KET
-- 👀 I’m a computer science student at Jacobs University (Now known as Constructor University)
-- 🌱 Currently learning and applying C/Cpp, Python, ADS
-- 💞️ I’m working on a personal project "KET Foundation."
+- 👋 Hi, I’m Kinlo Ephriam Tangiri
+- 👀 I’m a computer science student at Constructor University (Formally know as Jacobs University)
+- 🌱 Currently in my final year
 - 📫 Here is my portfolio website: https://my-portfolio-xi-flame-14.vercel.app/
-- 
 
 <!---
 9117KET/9117KET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
