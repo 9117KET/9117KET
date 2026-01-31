@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kinlo Ephriam Tangiri
-- 👀 I’m a computer science student at Constructor University (Formally know as Jacobs University)
-- 🌱 Currently in my final year
+- 👀 AI-Engineer
 - 📫 Here is my portfolio website: https://www.kinloephraim.com/
 
 <!---
