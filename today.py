@@ -180,18 +180,26 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
         user(login: $login) {
             repositories(first: 60, after: $cursor, ownerAffiliations: $owner_affiliation) {
-            edges {
-                node {
-                    ... on Repository {
-                        nameWithOwner
-                        defaultBranchRef {
-                            target {
-                                ... on Commit { history { totalCount } }
+                edges {
+                    node {
+                        ... on Repository {
+                            nameWithOwner
+                            defaultBranchRef {
+                                target {
+                                    ... on Commit {
+                                        history {
+                                            totalCount
+                                        }
+                                    }
+                                }
                             }
                         }
                     }
                 }
-                pageInfo { endCursor hasNextPage }
+                pageInfo {
+                    endCursor
+                    hasNextPage
+                }
             }
         }
     }'''
