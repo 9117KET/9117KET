@@ -1,3 +1,10 @@
+- [x] **Settle the contact address.** `kinlotangiri1@gmail.com` — the account the
+      drafts actually send from, so the From line, the signature and the Impressum
+      now agree. No Send-mail-as alias needed.
+- [x] **Cut the drafts.** Every body is now 176–252 words, down from 450–600. The
+      earlier versions broke the rule stated further up this file: a cold email to a
+      German institution that runs past one screen gets skimmed, and skimming loses
+      the two sentences that matter.
 # Anspruch — Outreach Workspace
 
 Partnership and funding outreach for **Anspruch**
@@ -91,7 +98,7 @@ Four of these are now done — see
       single largest risk left in this workspace.
 - [x] **Fill in the Impressum address.** Alhardstraße 19, 28757 Bremen — a
       *ladungsfähige Anschrift*, so the § 5 DDG point is closed.
-- [x] **Settle the contact address.** `kinlotangiri@gmail.com`, in all nine drafts and
+- [x] **Settle the contact address.** `kinlotangiri1@gmail.com`, in all nine drafts and
       both legal pages. **One thing this does not fix:** the Gmail account the drafts
       sit in sends as `kinlotangiri1@gmail.com`, and a draft cannot change its own From
       line. Either send from the right account, or add the address under Gmail Settings

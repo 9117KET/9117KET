@@ -1,15 +1,11 @@
 # 05 — compass private pflegeberatung GmbH
 
-**To:** `info@compass-pflegeberatung.de`
-**Attn:** Dr. Sibylle Angele, Geschäftsführung — verify first
-**Tier:** C — payer-side advice service
-**Ask:** a conversation about where a tool like this could sit
-**Send:** week 4
+**To:** `info@compass-pflegeberatung.de` · **Attn:** Dr. Sibylle Angele — verify first
+**Ask:** a conversation about where this could sit · **Send:** week 4
 
-> Why this one: compass delivers statutory care advice for the privately insured across
-> the whole country, from one organisation with one management. Unlike a Pflegekasse they
-> have no incentive to suppress claims — advice *is* their product. If any institutional
-> body adopts this, it is likeliest to be them.
+> Nationwide statutory advice from one organisation with one management, and no
+> incentive to suppress claims — advice *is* their product. Likeliest institutional
+> adopter.
 
 ---
 
@@ -17,54 +13,28 @@
 
 Sehr geehrte Frau Dr. Angele,
 
-ich wende mich an Sie, weil compass Pflegeberatung bundesweit und aus einer Hand
-erbringt — und weil ich ein Werkzeug gebaut habe, das eine Beratung vorbereiten, aber
-nicht ersetzen soll.
-
-Ich bin Softwareentwickler in Bremen. Das Werkzeug schätzt den voraussichtlichen
-Pflegegrad, vergleicht den daraus folgenden Anspruch mit dem, was ein Haushalt bereits
-bezieht, und benennt die nächsten Schritte mit der jeweiligen Rechtsgrundlage:
+ich wende mich an Sie, weil compass Pflegeberatung bundesweit und aus einer Hand erbringt
+— und weil ich ein Werkzeug gebaut habe, das eine Beratung vorbereiten, nicht ersetzen
+soll:
 
 **<https://solution-for-germany.vercel.app>**
 
-Vier Eigenschaften, die aus Sicht einer Beratungsorganisation relevant sein dürften:
+Es schätzt den voraussichtlichen Pflegegrad, stellt den Anspruch dem tatsächlich
+Bezogenen gegenüber und nennt die nächsten Schritte mit Rechtsgrundlage. Das Ergebnis-PDF
+enthält auch **die gegebenen Antworten** — die Begutachtung stellt dieselben Fragen, und
+der Nutzen liegt genau da: in der Vorbereitung.
 
-**Es ist auf die Beratung hin gebaut, nicht von ihr weg.** Das Ergebnis-PDF enthält neben
-der Einschätzung auch **die gegebenen Antworten**. Die Begutachtung stellt dieselben
-Fragen; eine Familie, die ihre Antworten mitbringt, muss sich im Termin nicht daran
-erinnern, wie oft die Nächte schlecht waren. Der Nutzen liegt in der Vorbereitung, nicht
-im Ersetzen des Gesprächs.
+Drei Punkte aus Sicht einer Beratungsorganisation. Es entsteht kaum
+datenschutzrechtlicher Aufwand: alles läuft im Browser, angetippte Antworten verlassen
+das Gerät nicht (bei gesprochenen wertet Chrome die Tonaufnahme extern aus, was die
+Datenschutzerklärung nennt). Die Verkürzung auf zwölf bis zwanzig Fragen ist belegt, nicht
+geschätzt. Und die Darstellung ist bewusst konservativ: Pflegegeld und Pflegesachleistung
+werden nach § 38 SGB XI als Alternativen ausgewiesen, nicht addiert.
 
-**Der datenschutzrechtliche Aufwand ist gering.** Die Anwendung läuft vollständig im
-Browser. Kein Konto, kein Server, keine Analyse-Werkzeuge. Getippte und angetippte
-Antworten verlassen das Gerät nicht und sind für mich zu keinem Zeitpunkt einsehbar. Ein
-unterbrochener Durchlauf bleibt lokal erhalten und kann beim nächsten Besuch fortgesetzt
-oder gelöscht werden. Die eine Einschränkung nenne ich lieber selbst, bevor Ihre
-Datenschutzbeauftragten sie finden: Bei *gesprochener* Antwort werten Chrome und Edge die
-Tonaufnahme auf Servern ihres Herstellers aus. Jede Frage bleibt vollständig per Tippen
-beantwortbar, und die Datenschutzerklärung stellt beides ausdrücklich gegenüber.
-
-**Die Verkürzung ist belegt, nicht geschätzt.** Zwölf bis zwanzig Fragen statt
-vierundsechzig. Es werden eine obere und eine untere Schranke des Ergebnisses
-mitgerechnet; abgebrochen wird erst, wenn die offenen Fragen den Pflegegrad nachweislich
-nicht mehr verändern können. Wo die Schranken auseinanderfallen, wird eine Spanne
-ausgewiesen und die offenen Fragen werden erneut angeboten. Der Bericht nennt immer, wie
-viele der vierundsechzig Fragen gestellt wurden und warum die übrigen entfallen sind.
-
-**Die Darstellung ist bewusst konservativ.** Jeder Betrag trägt seine Rechtsgrundlage und
-das Datum der letzten Prüfung. Einmalige Zuschüsse gehen nicht in die Monatssumme ein.
-Pflegegeld und Pflegesachleistung werden nach § 38 SGB XI als Alternativen behandelt und
-nicht addiert. Ein zu hoher Betrag wäre schädlicher als gar keiner: Die Familie erfährt es
-bei der Pflegekasse und glaubt danach nichts mehr, was das Werkzeug gesagt hat.
-
-**Mein Anliegen:** Hätten Sie oder jemand aus Ihrem Haus Interesse an einem Gespräch
-darüber, ob und wo ein solches Werkzeug in einem Beratungsablauf sinnvoll sitzen könnte —
-etwa als Vorbereitung vor dem Erstgespräch? Ich bin offen dafür, dass die Antwort „nirgends“
-lautet; auch diese Begründung wäre für mich wertvoll.
-
-Das Werkzeug ist kostenfrei, der Quellcode offen:
-<https://github.com/9117KET/solution-for-germany>
+Hätten Sie oder jemand aus Ihrem Haus Interesse an einem Gespräch darüber, ob und wo so
+etwas in einem Beratungsablauf sitzen könnte? Ich bin offen dafür, dass die Antwort
+„nirgends“ lautet — auch diese Begründung wäre für mich wertvoll.
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · +49 176 27522943 · kinlotangiri@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri1@gmail.com

@@ -1,64 +1,40 @@
-# 02 — Der Paritätische Wohlfahrtsverband, Landesverband Bremen
+# 02 — Der Paritätische Bremen
 
-**To:** `info@paritaet-bremen.de`
-**Attn:** Frau Anja Vedder (Altenhilfe und Pflege) — verify on the site first
-**Tier:** A — Bremen pilot / multiplier
-**Ask:** an introduction to two or three member organisations doing Pflegeberatung
-**Send:** week 1
+**To:** `info@paritaet-bremen.de` · **Attn:** Anja Vedder (Altenhilfe und Pflege) — verify first
+**Ask:** an introduction to two or three member organisations · **Send:** week 1
 
-> Why this one: the Paritätische is a multiplier. You are not asking them to run a pilot
-> — you are asking them to point. That is a much smaller favour, and it is the favour an
-> umbrella organisation is actually set up to grant.
+> A multiplier. You are asking them to point, not to run a pilot — a far smaller
+> favour, and the one an umbrella body is set up to grant.
 
 ---
 
-**Betreff:** Kostenfreies Werkzeug zur Pflegegrad-Einschätzung — Frage nach passenden Mitgliedsorganisationen
+**Betreff:** Kostenfreies Pflege-Werkzeug — Frage nach passenden Mitgliedsorganisationen
 
 Sehr geehrte Frau Vedder,
 
-ich wende mich an Sie, weil Sie beim Paritätischen Bremen den Bereich Altenhilfe und
-Pflege verantworten.
+ich wende mich an Sie, weil Sie beim Paritätischen Bremen die Altenhilfe und Pflege
+verantworten.
 
 Ich bin Softwareentwickler in Bremen und habe ein kostenfreies, werbefreies Werkzeug
-entwickelt, mit dem Familien ihren voraussichtlichen Pflegegrad und die daraus folgenden
+gebaut, mit dem Familien ihren voraussichtlichen Pflegegrad und die daraus folgenden
 Ansprüche einschätzen können:
 
 **<https://solution-for-germany.vercel.app>**
 
-Der Hintergrund: Pflegeleistungen müssen einzeln beantragt werden, und Geld, das bereits
-zusteht, wird regelmäßig nicht abgerufen — der Entlastungsbetrag nach § 45b SGB XI ist das
-bekannteste Beispiel. Besonders betroffen sind Haushalte, die die Anträge in einer
-Zweitsprache bearbeiten.
+Der Hintergrund: Pflegeleistungen müssen einzeln beantragt werden, und bereits
+zustehendes Geld bleibt regelmäßig liegen — der Entlastungsbetrag nach § 45b SGB XI ist
+das bekannteste Beispiel. Besonders betroffen sind Familien, die die Anträge in einer
+Zweitsprache bearbeiten; die Oberfläche gibt es deshalb in sechs Sprachen.
 
-Drei Punkte, die für Ihre Mitgliedsorganisationen praktisch relevant sein dürften:
+Für Ihre Mitgliedsorganisationen dürften zwei Dinge zählen: Die Anwendung läuft
+vollständig im Browser, sodass kein Auftragsverarbeitungsvertrag nötig ist. Und sie tritt
+ausdrücklich als Einschätzung und nicht als Begutachtung auf — bei unvollständigen
+Angaben gibt sie eine Spanne aus statt einer Zahl.
 
-1. **Der Datenschutz ist überschaubar.** Die Anwendung läuft vollständig im Browser. Kein
-   Konto, kein Server, keine Analyse-Werkzeuge. Getippte und angetippte Antworten
-   verlassen das Gerät nicht, ein Auftragsverarbeitungsvertrag ist dafür nicht nötig. Die
-   eine Ausnahme nenne ich lieber selbst als sie prüfen zu lassen: Bei *gesprochener*
-   Antwort werten Chrome und Edge die Tonaufnahme auf Servern ihres Herstellers aus.
-   Jede Frage bleibt vollständig per Tippen beantwortbar; die Datenschutzerklärung führt
-   das aus.
-2. **Jede Zahl ist belegt.** Alle Beträge und Schwellenwerte tragen ihre Rechtsgrundlage
-   und das Datum der letzten Prüfung. Die Darstellung ist bewusst konservativ: Einmalige
-   Zuschüsse gehen nicht in die Monatssumme ein, Pflegegeld und Pflegesachleistung werden
-   nach § 38 SGB XI als Alternativen und nicht addiert ausgewiesen.
-3. **Es überschätzt sich nicht.** Es nennt sich eine Einschätzung und keine Begutachtung,
-   weist auf die kostenfreie Beratung nach § 7a SGB XI hin, und gibt bei unvollständigen
-   Angaben eine Spanne statt einer Zahl aus.
-
-Die Oberfläche liegt in sechs Sprachen vor (Deutsch, Englisch, Türkisch, Russisch,
-Polnisch, Arabisch), Schriftgröße und Kontrast sind vor der ersten Frage einstellbar, und
-jede Frage kann vorgelesen und per Sprache beantwortet werden.
-
-**Mein Anliegen ist bewusst klein:** Welche zwei oder drei Ihrer Mitgliedsorganisationen
-würden Sie ansprechen, wenn Sie so etwas erproben wollten? Über eine kurze Nennung oder
-eine Weiterleitung dieser E-Mail wäre ich sehr dankbar. Über ein Gespräch mit Ihnen
-selbst natürlich ebenso — ich bin in Bremen und komme gerne vorbei.
-
-Das Werkzeug ist kostenfrei und bleibt es; der Quellcode ist offen:
-<https://github.com/9117KET/solution-for-germany>
+Mein Anliegen ist klein: Welche zwei oder drei Ihrer Mitgliedsorganisationen würden Sie
+ansprechen, wenn Sie so etwas erproben wollten? Über eine kurze Nennung oder eine
+Weiterleitung wäre ich sehr dankbar.
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · +49 176 27522943 · kinlotangiri@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri1@gmail.com
