@@ -70,4 +70,4 @@ verfolge damit keine kommerziellen Absichten, und der Quellcode ist offen einseh
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · +49 176 27522943 · kinlotangiri911@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri@gmail.com

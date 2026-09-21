@@ -89,12 +89,13 @@ Four of these are now done — see
       volunteering the limitation is worth more than the claim it qualifies.
 - [ ] **Have a German native speaker read the German drafts.** Still open, and now the
       single largest risk left in this workspace.
-- [x] **Fill in the Impressum address.** Set to 28757 Bremen. **Still short of § 5
-      DDG**, which wants a *ladungsfähige Anschrift* — an address at which you can
-      actually be served. Postcode and city alone does not meet that, and nor would a
-      Postfach. A Pflegekasse's or a Verband's legal side is exactly the reader who
-      checks this. Closing it means adding the street, or switching to a c/o or a
-      commercial Impressum service address.
+- [x] **Fill in the Impressum address.** Alhardstraße 19, 28757 Bremen — a
+      *ladungsfähige Anschrift*, so the § 5 DDG point is closed.
+- [x] **Settle the contact address.** `kinlotangiri@gmail.com`, in all nine drafts and
+      both legal pages. **One thing this does not fix:** the Gmail account the drafts
+      sit in sends as `kinlotangiri1@gmail.com`, and a draft cannot change its own From
+      line. Either send from the right account, or add the address under Gmail Settings
+      → Accounts → *Send mail as* and pick it before sending.
 - [ ] **Redeploy**, then click both footer links on the live site before the first
       email goes out.
 - [ ] **Set up a project email address.** Sending from a personal Gmail is survivable

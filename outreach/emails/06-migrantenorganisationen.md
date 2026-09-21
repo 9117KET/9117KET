@@ -59,4 +59,4 @@ Absichten. Der Quellcode ist offen: <https://github.com/9117KET/solution-for-ger
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · +49 176 27522943 · kinlotangiri911@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri@gmail.com

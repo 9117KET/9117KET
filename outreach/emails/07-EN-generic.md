@@ -62,4 +62,4 @@ The tool is free and will stay free, and the source is open:
 
 Kind regards,
 Kinlo Ephriam Tangiri
-Bremen, Germany · +49 176 27522943 · kinlotangiri911@gmail.com
+Bremen, Germany · +49 176 27522943 · kinlotangiri@gmail.com
