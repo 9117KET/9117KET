@@ -62,4 +62,4 @@ Das Werkzeug ist kostenfrei und bleibt es; der Quellcode ist offen einsehbar:
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · [Telefonnummer] · kinlotangiri911@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri911@gmail.com

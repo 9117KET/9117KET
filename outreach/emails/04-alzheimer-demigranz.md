@@ -59,4 +59,4 @@ und der Quellcode ist vollständig offen: <https://github.com/9117KET/solution-f
 
 Mit freundlichen Grüßen
 Kinlo Ephriam Tangiri
-Bremen · [Telefonnummer] · kinlotangiri911@gmail.com
+Bremen · +49 176 27522943 · kinlotangiri911@gmail.com
