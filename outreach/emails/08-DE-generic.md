@@ -55,7 +55,7 @@ Es tritt ausdrücklich als Einschätzung und nicht als Begutachtung auf und weis
 kostenfreie Pflegeberatung nach § 7a SGB XI hin.
 
 **Mein Anliegen:** [Eine konkrete, kleine, leicht zu gewährende Bitte. Dreißig Minuten.
-Eine prüfende Person. Eine Weiterleitung. Niemals „eine Partnerschaft".]
+Eine prüfende Person. Eine Weiterleitung. Niemals „eine Partnerschaft“.]
 
 Das Werkzeug ist kostenfrei und bleibt es; der Quellcode ist offen einsehbar:
 <https://github.com/9117KET/solution-for-germany>

@@ -14,7 +14,7 @@
 
 ---
 
-**Betreff:** Ungeprüfte Übersetzungen in einem Pflege-Werkzeug — wie haben Sie das bei „Demenz und Migration" gelöst?
+**Betreff:** Ungeprüfte Übersetzungen in einem Pflege-Werkzeug — wie haben Sie das bei „Demenz und Migration“ gelöst?
 
 Sehr geehrte Frau Schneider-Schelte,
 
@@ -45,7 +45,7 @@ stehen lassen.
 
 **Zwei Fragen an Sie:**
 
-1. Wie haben Sie die Übersetzungen für „Demenz und Migration" fachlich absichern lassen?
+1. Wie haben Sie die Übersetzungen für „Demenz und Migration“ fachlich absichern lassen?
    Über Ehrenamtliche, über die Mitgliedsgesellschaften, über bezahlte Fachübersetzung?
    Jeder Hinweis auf ein funktionierendes Verfahren wäre mir sehr wertvoll.
 2. Gäbe es die Möglichkeit, dass jemand aus Ihrem Netzwerk oder aus dem DeMigranz-Verbund

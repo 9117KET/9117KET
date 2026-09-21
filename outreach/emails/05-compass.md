@@ -55,7 +55,7 @@ bei der Pflegekasse und glaubt danach nichts mehr, was das Werkzeug gesagt hat.
 
 **Mein Anliegen:** Hätten Sie oder jemand aus Ihrem Haus Interesse an einem Gespräch
 darüber, ob und wo ein solches Werkzeug in einem Beratungsablauf sinnvoll sitzen könnte —
-etwa als Vorbereitung vor dem Erstgespräch? Ich bin offen dafür, dass die Antwort „nirgends"
+etwa als Vorbereitung vor dem Erstgespräch? Ich bin offen dafür, dass die Antwort „nirgends“
 lautet; auch diese Begründung wäre für mich wertvoll.
 
 Das Werkzeug ist kostenfrei, der Quellcode offen:
