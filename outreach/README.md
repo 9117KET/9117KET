@@ -89,8 +89,14 @@ Four of these are now done — see
       volunteering the limitation is worth more than the claim it qualifies.
 - [ ] **Have a German native speaker read the German drafts.** Still open, and now the
       single largest risk left in this workspace.
-- [ ] **Fill in the Impressum address and redeploy**, then click both footer links on
-      the live site before the first email goes out.
+- [x] **Fill in the Impressum address.** Set to 28757 Bremen. **Still short of § 5
+      DDG**, which wants a *ladungsfähige Anschrift* — an address at which you can
+      actually be served. Postcode and city alone does not meet that, and nor would a
+      Postfach. A Pflegekasse's or a Verband's legal side is exactly the reader who
+      checks this. Closing it means adding the street, or switching to a c/o or a
+      commercial Impressum service address.
+- [ ] **Redeploy**, then click both footer links on the live site before the first
+      email goes out.
 - [ ] **Set up a project email address.** Sending from a personal Gmail is survivable
       but weaker. Anything at a project domain lifts the reply rate.
 
