@@ -35,10 +35,14 @@ Fragen; eine Familie, die ihre Antworten mitbringt, muss sich im Termin nicht da
 erinnern, wie oft die Nächte schlecht waren. Der Nutzen liegt in der Vorbereitung, nicht
 im Ersetzen des Gesprächs.
 
-**Es entsteht kein datenschutzrechtlicher Vorgang.** Die Anwendung läuft vollständig im
-Browser. Kein Konto, kein Server, keine Analyse-Werkzeuge. Die Angaben verlassen das Gerät
-nicht und sind für mich zu keinem Zeitpunkt einsehbar. Ein unterbrochener Durchlauf bleibt
-lokal erhalten und kann beim nächsten Besuch fortgesetzt oder gelöscht werden.
+**Der datenschutzrechtliche Aufwand ist gering.** Die Anwendung läuft vollständig im
+Browser. Kein Konto, kein Server, keine Analyse-Werkzeuge. Getippte und angetippte
+Antworten verlassen das Gerät nicht und sind für mich zu keinem Zeitpunkt einsehbar. Ein
+unterbrochener Durchlauf bleibt lokal erhalten und kann beim nächsten Besuch fortgesetzt
+oder gelöscht werden. Die eine Einschränkung nenne ich lieber selbst, bevor Ihre
+Datenschutzbeauftragten sie finden: Bei *gesprochener* Antwort werten Chrome und Edge die
+Tonaufnahme auf Servern ihres Herstellers aus. Jede Frage bleibt vollständig per Tippen
+beantwortbar, und die Datenschutzerklärung stellt beides ausdrücklich gegenüber.
 
 **Die Verkürzung ist belegt, nicht geschätzt.** Zwölf bis zwanzig Fragen statt
 vierundsechzig. Es werden eine obere und eine untere Schranke des Ergebnisses

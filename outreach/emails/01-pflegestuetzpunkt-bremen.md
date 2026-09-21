@@ -50,8 +50,11 @@ Antragsunterlagen in einer Zweitsprache bearbeiten.
 - Am Ende steht ein PDF mit der Einschätzung, den nächsten Schritten in sinnvoller
   Reihenfolge und den gegebenen Antworten — gedacht als Vorbereitung auf die Begutachtung.
 - **Es verarbeitet alles im Browser.** Kein Konto, kein Server, keine Analyse-Werkzeuge.
-  Die Angaben verlassen das Gerät nicht. Es gibt daher auch keinen
-  Auftragsverarbeitungsvertrag zu schließen.
+  Getippte und angetippte Antworten verlassen das Gerät nicht; ein
+  Auftragsverarbeitungsvertrag ist dafür nicht zu schließen. Eine Ausnahme nenne ich
+  lieber selbst: Wer eine Frage *gesprochen* beantwortet, dessen Tonaufnahme werten
+  Chrome und Edge auf Servern ihres Herstellers aus. Jede Frage bleibt vollständig per
+  Tippen beantwortbar, und die Datenschutzerklärung sagt das so.
 - Die Oberfläche gibt es in sechs Sprachen (Deutsch, Englisch, Türkisch, Russisch,
   Polnisch, Arabisch). Die Fragen selbst bleiben bewusst auf Deutsch oder Englisch, weil
   eine ungeprüfte Übersetzung eines Rechtsinstruments schlechter wäre als keine.

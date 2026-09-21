@@ -44,8 +44,11 @@ die verbleibenden Fragen das Ergebnis nachweislich nicht mehr verändern können
 Schranken auseinanderfallen, zeigt der Bericht eine **Spanne** und bietet die offenen
 Fragen erneut an. Er nimmt nie den Mittelwert.
 
-Alles läuft im Browser: kein Konto, kein Server, keine Analyse-Werkzeuge, keine
-Datenübertragung. Die Oberfläche gibt es in sechs Sprachen.
+Alles läuft im Browser: kein Konto, kein Server, keine Analyse-Werkzeuge. Getippte und
+angetippte Antworten verlassen das Gerät nicht. Bei *gesprochener* Antwort werten Chrome
+und Edge die Tonaufnahme allerdings auf Servern ihres Herstellers aus — das steht in der
+Datenschutzerklärung, und jede Frage bleibt vollständig per Tippen beantwortbar. Die
+Oberfläche gibt es in sechs Sprachen.
 
 **Was ich von Ihnen erbitten möchte:** Würde jemand aus dem Vorstand oder einer
 Regionalgruppe es sich ansehen und mir sagen, wo es falsch liegt? Ich meine das wörtlich.

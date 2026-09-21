@@ -23,8 +23,8 @@ gelöst haben.
 
 Ich bin Softwareentwickler in Bremen und habe ein kostenfreies Werkzeug entwickelt, mit
 dem Familien ihren voraussichtlichen Pflegegrad und die daraus folgenden Leistungsansprüche
-einschätzen können. Es läuft vollständig im Browser, ohne Konto und ohne Server; die
-Angaben verlassen das Gerät nicht:
+einschätzen können. Es läuft vollständig im Browser, ohne Konto und ohne Server; getippte
+und angetippte Antworten verlassen das Gerät nicht:
 
 **<https://solution-for-germany.vercel.app>**
 

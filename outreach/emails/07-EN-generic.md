@@ -36,8 +36,11 @@ answers they gave, because the official assessment is an interview asking the sa
 
 **Three things that make it different from the tools in this space:**
 
-1. **Nothing leaves the device.** It runs entirely in the browser. No account, no server,
-   no analytics. I cannot see a single answer anyone gives it.
+1. **Tapped and typed answers never leave the device.** It runs entirely in the browser.
+   No account, no server, no analytics. I cannot see a single answer anyone gives it. One
+   exception, which I would rather state than have you find: spoken answers go through the
+   browser's Web Speech API, and Chrome and Edge upload that audio to the vendor. Every
+   question stays fully answerable by tap, and the privacy notice says so plainly.
 2. **Every figure is traceable.** Each amount and threshold carries its statutory source
    and the date a human last verified it. A figure that cannot be traced is not shown. The
    headline is deliberately conservative — a number that is too high is worse than no

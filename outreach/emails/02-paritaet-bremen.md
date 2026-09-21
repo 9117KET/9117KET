@@ -32,10 +32,13 @@ Zweitsprache bearbeiten.
 
 Drei Punkte, die für Ihre Mitgliedsorganisationen praktisch relevant sein dürften:
 
-1. **Datenschutz ist kein Thema.** Die Anwendung läuft vollständig im Browser. Kein Konto,
-   kein Server, keine Analyse-Werkzeuge, keine Datenübertragung. Es ist kein
-   Auftragsverarbeitungsvertrag nötig, weil keine Daten verarbeitet werden, die das Gerät
-   verlassen.
+1. **Der Datenschutz ist überschaubar.** Die Anwendung läuft vollständig im Browser. Kein
+   Konto, kein Server, keine Analyse-Werkzeuge. Getippte und angetippte Antworten
+   verlassen das Gerät nicht, ein Auftragsverarbeitungsvertrag ist dafür nicht nötig. Die
+   eine Ausnahme nenne ich lieber selbst als sie prüfen zu lassen: Bei *gesprochener*
+   Antwort werten Chrome und Edge die Tonaufnahme auf Servern ihres Herstellers aus.
+   Jede Frage bleibt vollständig per Tippen beantwortbar; die Datenschutzerklärung führt
+   das aus.
 2. **Jede Zahl ist belegt.** Alle Beträge und Schwellenwerte tragen ihre Rechtsgrundlage
    und das Datum der letzten Prüfung. Die Darstellung ist bewusst konservativ: Einmalige
    Zuschüsse gehen nicht in die Monatssumme ein, Pflegegeld und Pflegesachleistung werden

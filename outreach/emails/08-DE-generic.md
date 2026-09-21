@@ -39,8 +39,12 @@ enthält.
 
 **Drei Punkte, die es von ähnlichen Angeboten unterscheiden:**
 
-1. **Es verlässt das Gerät nicht.** Alles läuft im Browser: kein Konto, kein Server, keine
-   Analyse-Werkzeuge. Ich kann keine einzige Angabe einsehen, die jemand macht.
+1. **Getippte und angetippte Antworten verlassen das Gerät nicht.** Alles läuft im
+   Browser: kein Konto, kein Server, keine Analyse-Werkzeuge. Ich kann keine einzige
+   Angabe einsehen, die jemand macht. Die eine Ausnahme nenne ich lieber selbst: Bei
+   *gesprochener* Antwort werten Chrome und Edge die Tonaufnahme auf Servern ihres
+   Herstellers aus. Jede Frage bleibt vollständig per Tippen beantwortbar, und die
+   Datenschutzerklärung sagt das so.
 2. **Jede Zahl ist belegt.** Alle Beträge und Schwellenwerte tragen ihre Rechtsgrundlage
    und das Datum der letzten Prüfung. Was sich nicht belegen lässt, wird nicht angezeigt.
    Die Darstellung ist bewusst konservativ: Einmalige Zuschüsse gehen nicht in die

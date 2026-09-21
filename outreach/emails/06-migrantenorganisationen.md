@@ -34,8 +34,11 @@ eingewanderte Familien besonders hart.
 Das Werkzeug ist daraufhin gebaut: Die Oberfläche gibt es in sechs Sprachen — Deutsch,
 Englisch, Türkisch, Russisch, Polnisch und Arabisch, letzteres durchgehend rechtsläufig.
 Schriftgröße, Farbschema und Tempo werden vor der ersten Frage eingestellt, nicht in einem
-versteckten Menü. Jede Frage kann vorgelesen und gesprochen beantwortet werden. Alles läuft
-im Browser: kein Konto, kein Server, keine Datenübertragung.
+versteckten Menü. Alles läuft im Browser: kein Konto, kein Server, keine
+Analyse-Werkzeuge, und getippte oder angetippte Antworten verlassen das Gerät nicht. Jede
+Frage kann auch vorgelesen und gesprochen beantwortet werden; bei gesprochener Antwort
+werten Chrome und Edge die Tonaufnahme allerdings auf Servern ihres Herstellers aus, was
+die Datenschutzerklärung ausdrücklich nennt.
 
 **Zwei Dinge, bei denen ich um Ihre Hilfe bitte:**
 

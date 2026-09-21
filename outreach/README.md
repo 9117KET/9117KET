@@ -69,23 +69,30 @@ nothing but an hour.
 
 ## Before you send anything
 
-- [ ] **Verify the "29 in 100" figure.** The README states that roughly 29 in 100
-      re-checked assessment reports are corrected. Find and pin the primary source (MD
-      Bund / MDS *Pflegebegutachtung* statistics) before putting it in an email to an
-      institution that will know the number better than you do. If it cannot be pinned,
-      drop it — the rest of the case stands without it.
-- [ ] **Have a German native speaker read the German drafts.** These are written to be
-      correct and formal, but a cold email to a *Geschäftsführung* is the wrong place to
-      discover a stiff phrasing.
-- [ ] **Decide the licence.** The repo says "Not yet chosen." Every funder in Tier E and
-      several partners in Tier A/B will ask. Prototype Fund *requires* an OSI licence.
-      Pick one (AGPL-3.0 or MIT) before sending funder emails.
-- [ ] **Add an Impressum and a privacy note to the deployed site.** A German
-      organisation will look for both before replying. Their absence reads as unserious;
-      for a publicly reachable site aimed at German users it is also a legal
-      expectation. This is the highest-value hour of work before outreach starts.
-- [ ] **Set up a project email address.** Sending from a personal Gmail is survivable but
-      weaker. Anything at a project domain lifts the reply rate.
+Four of these are now done — see
+[solution-for-germany#4](https://github.com/9117KET/solution-for-germany/pull/4).
+
+- [x] **Verify the "29 in 100" figure.** Done, and it survived: of 185,494 reports
+      re-examined after an objection in 2022, roughly every third was changed
+      (Medizinischer Dienst Bund, Nov 2023). The *wording* did not survive — the app
+      said those reports "waren falsch", in all six languages, and the MD published
+      that release specifically to rebut the "wrong" reading. Corrected to "changed",
+      and the figure now has an entry in `sources.ts`, which it had been missing.
+- [x] **Decide the licence.** AGPL-3.0. Prototype Fund is now unblocked.
+- [x] **Add an Impressum and a privacy note.** `/impressum` and `/datenschutz`, linked
+      from a footer on every screen. **One thing left for you:** the postal address is
+      a marked placeholder, left out so no home address enters public git history.
+- [x] **Qualify the privacy claim.** Speech recognition uses the Web Speech API, and
+      Chrome and Edge upload the audio to the vendor. "Nothing leaves the device" was
+      therefore true of tapped and typed answers only. Every draft in `emails/` now
+      states this itself rather than waiting to be caught on it — in this sector,
+      volunteering the limitation is worth more than the claim it qualifies.
+- [ ] **Have a German native speaker read the German drafts.** Still open, and now the
+      single largest risk left in this workspace.
+- [ ] **Fill in the Impressum address and redeploy**, then click both footer links on
+      the live site before the first email goes out.
+- [ ] **Set up a project email address.** Sending from a personal Gmail is survivable
+      but weaker. Anything at a project domain lifts the reply rate.
 
 ## Files
 

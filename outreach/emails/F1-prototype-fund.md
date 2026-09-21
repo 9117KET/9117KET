@@ -50,6 +50,9 @@ bearbeiten, sowie sehr alte und erschöpfte Menschen.
 nachbildet, den voraussichtlichen Pflegegrad schätzt, den Anspruch gegen das tatsächlich
 Bezogene stellt und die nächsten Schritte mit Rechtsgrundlage ausgibt. Sie läuft
 vollständig im Browser; es gibt kein Konto, keinen Server und keine Analyse-Werkzeuge.
+Getippte und angetippte Antworten verlassen das Gerät nicht; bei gesprochener Antwort
+werten Chrome und Edge die Tonaufnahme auf Servern ihres Herstellers aus, was die
+Datenschutzerklärung ausdrücklich nennt. Der Code steht unter der AGPL-3.0.
 
 **Der technische Kern**, den ich weiterentwickeln möchte: Das Instrument umfasst
 vierundsechzig Kriterien. Die Anwendung stellt typischerweise zwölf bis zwanzig Fragen —
