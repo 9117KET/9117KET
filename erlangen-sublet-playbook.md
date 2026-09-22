@@ -191,6 +191,9 @@ PJ Erlangen "suche Zimmer" Tertial
 "looking for a room" Erlangen October December furnished
 "room wanted" Erlangen short term internship FAU
 Erlangen "3 Monate" Zimmer gesucht möbliert
+Herzogenaurach OR Erlangen "suche Zimmer" Adidas OR Puma OR Schaeffler Praktikum
+"suche Zimmer" Erlangen Umgebung Bubenreuth OR Baiersdorf OR Uttenreuth
+"Zimmer gesucht" Erlangen Fraunhofer OR "Max Planck" Praktikum
 ```
 
 Also set up **saved searches with instant alerts** on WG-Gesucht and
@@ -198,6 +201,122 @@ Kleinanzeigen for the seeker categories. New requests get answered within
 minutes in October; being first matters more than being cheapest.
 
 ---
+
+## 3.5 The demand side: where people post that they are looking
+
+You are the one giving out the room, so the highest-value work is not polishing
+your own ad — it is reading the ads of people who have already written "I am
+looking". Those people are pre-qualified, they state their dates, and almost no
+landlord bothers to answer them. Below is the complete seeker map for Erlangen
+and its surroundings.
+
+### The seeker boards, with the URL pattern so you can derive any town
+
+WG-Gesucht gives every city a numeric ID and exposes seekers on a mirrored URL.
+Erlangen is **34**, Nürnberg is **96**, Fürth is **277**.
+
+| What you want to read | URL |
+|---|---|
+| People seeking a WG room in Erlangen | <https://www.wg-gesucht.de/en/wg-zimmer-in-Erlangen-gesucht.34.0.1.0.html> |
+| Students & trainees seeking a room in Erlangen | <https://www.wg-gesucht.de/en/wg-zimmer-in-Erlangen-gesucht.34.0.1.3.html> |
+| People seeking a flat in Erlangen | <https://www.wg-gesucht.de/en/wohnungen-in-Erlangen-gesucht.34.2.1.0.html> |
+| People seeking a WG room in Nürnberg | <https://www.wg-gesucht.de/en/wg-zimmer-in-Nuernberg-gesucht.96.0.1.0.html> |
+| People seeking a flat in Nürnberg | <https://www.wg-gesucht.de/en/wohnungen-in-Nuernberg-gesucht.96.2.1.0.html> |
+| People seeking a WG room in Fürth | <https://www.wg-gesucht.de/en/wg-zimmer-in-Fuerth-gesucht.277.0.1.0.html> |
+
+The pattern is `wg-zimmer-in-<City>-gesucht.<cityID>.0.1.0.html` for room
+seekers and `wohnungen-in-<City>-gesucht.<cityID>.2.1.0.html` for flat seekers.
+Swap the city name and ID for any other town.
+
+Elsewhere:
+
+- **Kleinanzeigen Wohnungs-Gesuche Erlangen** — <https://www.kleinanzeigen.de/s-erlangen/wohnungs-gesuche/k0l6791>
+  Then set the **Umkreis (radius) to 20–30 km**, which sweeps in Herzogenaurach,
+  Baiersdorf, Bubenreuth, Uttenreuth, Forchheim, Fürth and the northern edge of
+  Nürnberg in one view. Radius search is the single highest-leverage setting on
+  this site and most people leave it at 0.
+- **Hochschul-SMD Erlangen** — <https://smd-erlangen.de/wohnungsvermittlung/> —
+  carries requests as well as offers, published with the seeker's own email for
+  precisely this purpose, auto-expiring after eight weeks so everything is live.
+- **ESG / KHG Erlangen board** — <https://www.esg-erlangen.de/seelsorgecoaching/unialltag/zimmer>
+- **Studierendenwerk Privatzimmervermittlung** — the seekers are physically in
+  their office. You do not read a list; you register the room and they match you.
+  <https://www.werkswelt.de/index.php?id=privatzimmersvermittlung-erlangen>
+- **Facebook groups**, where most "suche dringend Zimmer ab Oktober" posts land.
+  Search for: `WG Zimmer Erlangen`, `Wohnungen Erlangen`, `Erlangen
+  Wohnungssuche`, `FAU Erlangen International Students`, `Erasmus Erlangen`,
+  and the current freshers group. Respond to posts; do not DM people who have
+  not asked.
+
+### Set alerts, then answer within the hour
+
+In the last week of September, a "suche Zimmer" post in Erlangen collects
+replies within minutes. Turn on **instant email alerts** for saved searches on
+both WG-Gesucht and Kleinanzeigen for the seeker categories above. Being first
+beats being cheapest — most seekers take the first decent room that answers
+them, because they are stressed and they have nowhere to sleep.
+
+### Who "around Erlangen" actually is
+
+Two separate flows, and the first is the one people miss.
+
+**1. People who work around Erlangen but need to live in Erlangen.** This is
+your best-fit, least-contested audience.
+
+- **Herzogenaurach — Adidas, Puma, Schaeffler.** Three global headquarters in a
+  town of ~24,000 with a chronically thin housing market. Their intern and
+  working-student cohorts arrive in waves, stay three to six months, and many
+  end up living in Erlangen and commuting the ~20 minutes by bus, because
+  Herzogenaurach itself has nothing. Other landlords already know this — there
+  are live WG-Gesucht ads headlined *"ideal für Adidas und Puma Praktikanten"*.
+  Put that exact phrase in your own ad and search Herzogenaurach as a seeker
+  location too.
+- **Fraunhofer IIS** (the largest Fraunhofer institute, in Erlangen) and the
+  **Max Planck Institute for the Science of Light** (Staudtstraße 2, Erlangen)
+  both run international research schools and take in guest researchers,
+  interns and thesis students on short contracts year-round. They are
+  institutionally funded, punctual, and leave on the agreed date.
+- **Siemens Healthineers / Siemens Energy** interns and Werkstudenten in
+  Erlangen itself.
+- **Uniklinikum Erlangen** — Famulatur and PJ cohorts rotating on fixed dates.
+
+**2. People searching the wider area who would happily take Erlangen.** Anyone
+already looking in the commuter belt is a candidate, because Erlangen is the
+centre of gravity, not the compromise:
+
+- On the S1 line (Nürnberg – Erlangen – Forchheim – Bamberg): **Bubenreuth,
+  Baiersdorf, Forchheim, Fürth, Nürnberg**.
+- On the Erlangen bus network: **Uttenreuth and Buckenhof** (lines 209/210,
+  direct to the Humanities Centre), **Spardorf and Bubenreuth** (line 253),
+  **Effeltrich, Poxdorf, Langensendelbach, Marloffstein, Möhrendorf** (line
+  208 and neighbours).
+- **Nürnberg and Fürth** hold FAU's WiSo faculty, TH Nürnberg Ohm and UTN.
+  Weaker fit — those students want to be near their own campus — but worth one
+  pass through the seeker lists above, especially for anyone whose ad mentions
+  an Erlangen internship or clinic placement.
+
+Mention the transport facts explicitly in your ad: the S-Bahn line, the bus
+number, and that the VGN Semesterticket covers the area. For someone deciding
+from abroad, "line 253, twelve minutes" is worth more than "gut angebunden".
+
+### A different kind of outreach: go through the gatekeepers
+
+Rather than contacting individuals one by one, one email to the right
+coordinator reaches an entire arriving cohort, and they will forward it because
+they field housing panic every October:
+
+- HR / early-talent or intern coordination at **Adidas, Puma and Schaeffler**
+  (Herzogenaurach) and **Siemens Healthineers** (Erlangen) — ask them to pass a
+  room offer to interns starting in October.
+- The **international office or IMPRS coordinator** at Fraunhofer IIS and MPL.
+- **ISN-NEF**, the Erasmus-network student association for Erlangen–Nürnberg–Fürth.
+- The **FAU Welcome Center** (Helmstraße 1, entrance B, Wed/Thu 9–12) and
+  `uni-gaestehaus@fau.de`, who turn people away when the guest houses are full.
+- **Praktikums- or Studiengangskoordination** at two or three large FAU
+  departments, and the Uniklinikum PJ/Famulatur office.
+
+Keep these emails to five lines: what the room is, the exact dates, the price,
+that Anmeldung is possible, and one line asking them to forward it.
 
 ## 4. Pricing
 
@@ -489,6 +608,10 @@ Housing platforms and boards
 - WG-Gesucht Erlangen — offers: <https://www.wg-gesucht.de/en/wg-zimmer-in-Erlangen.34.0.1.0.html>
 - WG-Gesucht Erlangen — room seekers: <https://www.wg-gesucht.de/en/wg-zimmer-in-Erlangen-gesucht.34.0.1.0.html>
 - WG-Gesucht Erlangen — students & trainees seeking: <https://www.wg-gesucht.de/en/wg-zimmer-in-Erlangen-gesucht.34.0.1.3.html>
+- WG-Gesucht Erlangen — flat seekers: <https://www.wg-gesucht.de/en/wohnungen-in-Erlangen-gesucht.34.2.1.0.html>
+- WG-Gesucht Nürnberg — flat seekers: <https://www.wg-gesucht.de/en/wohnungen-in-Nuernberg-gesucht.96.2.1.0.html>
+- WG-Gesucht Nürnberg — room offers: <https://www.wg-gesucht.de/en/wg-zimmer-in-Nuernberg.96.0.1.0.html>
+- WG-Gesucht Fürth — room offers: <https://www.wg-gesucht.de/en/wg-zimmer-in-Fuerth.277.0.1.0.html>
 - Kleinanzeigen "Auf Zeit & WG" Erlangen: <https://www.kleinanzeigen.de/s-auf-zeit-wg/erlangen/c199l6791>
 - Kleinanzeigen Wohnungs-Gesuche Erlangen: <https://www.kleinanzeigen.de/s-erlangen/wohnungs-gesuche/k0l6791>
 - Kleinanzeigen Zwischenmiete Erlangen: <https://www.kleinanzeigen.de/s-immobilien/erlangen/zwischenmiete/k0c195l6791>
@@ -516,6 +639,17 @@ University and student-body channels
 - FAU Welcome Center for international researchers: <https://www.fau.de/forschung/internationale-forschung/welcome-center/>
 - FAU guest houses: <https://www.fau.de/research/service-fuer-forschende/forschen-und-leben/gaestehaeuser-der-fau/>
 - Uniklinikum Erlangen Praktisches Jahr: <https://www.med.fau.de/studium/medizin/praktisches-jahr/>
+
+Employers and research institutes around Erlangen
+- Fraunhofer IIS Erlangen: <https://www.iis.fraunhofer.de/en.html>
+- Max Planck Institute for the Science of Light, Erlangen: <https://mpl.mpg.de/study-work-or-visit/open-positions>
+- PUMA interns and working students, Herzogenaurach: <https://about.puma.com/en/careers/future-talents/interns>
+- Siemens Healthineers student opportunities: <https://www.siemens-healthineers.com/de/careers/students>
+- Herzogenaurach (Adidas, Puma, Schaeffler): <https://en.wikipedia.org/wiki/Herzogenaurach>
+
+Transport in the Erlangen commuter belt
+- Erlangen ÖPNV network overview: <https://www.stadtumlandbahn.de/ueber-stub/strecke/abschnitte-im-fokus/das-erlanger-gesamt-oepnv-netz-mit-stub-und-bus/>
+- Bubenreuth transport connections: <https://www.bubenreuth.de/verkehrsanbindung-2>
 
 Dates
 - FAU semester dates: <https://www.fau.eu/studying/organizing-your-studies-and-where-to-go-for-advice/semester-dates/>
